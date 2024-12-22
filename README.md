@@ -1,0 +1,2 @@
+# Its Getting Hotter Here
+ This study delves into the temperature trends of the Philippines over a 20-year span, stemming from the recent alarming high temperatures reported in the local news during April 2024. The motivation behind this research arises from a growing concern regarding the perceived increase in temperatures and its various impacts on agriculture, economy, health, and daily activities.
